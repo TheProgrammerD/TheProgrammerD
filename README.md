@@ -30,12 +30,12 @@
 
 <br />
 
-### - Languages and Tools...
+**Languages and Tools...**
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-## Remember at the universe like a beautiful code made in Matter language programming
+## "Remember at the universe like a beautiful code made in matter language programming. 🌌"
 
 <p align="center">
   <img height="400" width="600" src="https://images.fineartamerica.com/images-medium-large-5/boy-looking-through-telescope-mark-garlickscience-photo-library.jpg">
