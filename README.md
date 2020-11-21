@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋.
 
 <p align="center">
-  <img src="https://pngwebicons.com/uploads/anime/ico/anime_icon6038.ico">
+  <img src="https://github.com/TheProgrammerD/TheProgrammerD/blob/main/TheProgrammerD.jpg">
 </p>
 
 
