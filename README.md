@@ -2,9 +2,15 @@
 
 <p align="center">
   <img src="https://github.com/TheProgrammerD/TheProgrammerD/blob/main/TheProgrammerD.jpg">
+  ![](https://visitor-badge.glitch.me/badge?page_id=TheProgrammerD.TheProgrammerD)
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=TheProgrammerD.TheProgrammerD)
+
+
+### Languages and Tools...
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 <br />
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/TotalThornyAfricanhornbill-size_restricted.gif" />
@@ -30,10 +36,7 @@
 
 <br />
 
-**Languages and Tools...**
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 ## "Remember at the universe like a beautiful code made in matter language programming 🌌"
 
