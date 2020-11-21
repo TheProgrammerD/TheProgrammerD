@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  ### Hi there, I'm Cristian, 🐉.
+  <p style="font-size:25px;">Hi there, I'm Cristian, 🐉</p>.
   <img src="https://github.com/TheProgrammerD/TheProgrammerD/blob/main/TheProgrammerD.jpg">
 </p>
 
