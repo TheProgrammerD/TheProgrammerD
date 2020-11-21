@@ -7,10 +7,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=TheProgrammerD.TheProgrammerD)
 
 <br />
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/249e55cc187fbe3dfb3f8a2d2dc1adde/tumblr_mtntw2ko2d1rz62vio1_500.gif" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/TotalThornyAfricanhornbill-size_restricted.gif" />
 <br />
 
-## - Current Status Quo
+**Current Status Quo**
 
 - 🌱 I’m currently learning C# and Java.
 - 🤔 I like the robotic, machine learning and videogames physics.
