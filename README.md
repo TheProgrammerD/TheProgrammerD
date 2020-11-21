@@ -18,10 +18,8 @@
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via josepthcamilo@gmail.com to reach me.
 
-
-#### - 🚀  If you have a very good musical taste go to listen Absolution from MUSE .
-
-#### - 🛸 Into Highg in Astrophysics and Science Fiction.
+- 🚀  If you have a very good musical taste go to listen Absolution from MUSE .
+- 🛸 Into Highg in Astrophysics and Science Fiction.
 
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=TheProgrammerD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -40,5 +38,5 @@
 ## Remember at the universe like a beautiful code made in Matter language programming
 
 <p align="center">
-  <img height="400" width="150" src="https://images.fineartamerica.com/images-medium-large-5/boy-looking-through-telescope-mark-garlickscience-photo-library.jpg">
+  <img height="150" width="400" src="https://images.fineartamerica.com/images-medium-large-5/boy-looking-through-telescope-mark-garlickscience-photo-library.jpg">
 </p>
