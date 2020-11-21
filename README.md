@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/249e55cc187fbe3dfb3f8a2d2dc1adde/tumblr_mtntw2ko2d1rz62vio1_500.gif" />
 <br />
 
-**Current Status Quo**
+## - Current Status Quo
 
 - 🌱 I’m currently learning C# and Java.
 - 🤔 I like the robotic, machine learning and videogames physics.
@@ -37,4 +37,4 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-#### Remember at the universe like a beautiful code made in Matter language programming
+## Remember at the universe like a beautiful code made in Matter language programming
