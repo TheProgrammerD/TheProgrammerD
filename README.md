@@ -13,7 +13,7 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 <br />
-<img align="right" height="400" width="400" alt="GIF" src="https://thumbs.gfycat.com/TotalThornyAfricanhornbill-size_restricted.gif" />
+<img align="right" height="250" width="250" alt="GIF" src="https://thumbs.gfycat.com/TotalThornyAfricanhornbill-size_restricted.gif" />
 <br />
 
 **Current Status Quo**
