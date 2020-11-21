@@ -12,14 +12,14 @@
 
 **Current Status Quo**
 
-- 🌱 I’m currently learning C# and Java.
-- 🤔 I like the robotic, machine learning and videogames physics.
-- 💼 I’m in way to finish my university.
+- 🌑 I’m currently learning C# and Java.
+- 🤖 I like the robotic, machine learning and videogames physics.
+- 🎸 I’m in way to finish my university.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via josepthcamilo@gmail.com to reach me.
 
 
-#### - 🔭 Muse FanBoi.
+#### - 🚀  If you have a very good musical taste go to listen Absolution from MUSE .
 
 #### - 🛸 Into Highg in Astrophysics and Science Fiction.
 
@@ -38,3 +38,7 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 ## Remember at the universe like a beautiful code made in Matter language programming
+
+<p align="center">
+  <img src="https://images.fineartamerica.com/images-medium-large-5/boy-looking-through-telescope-mark-garlickscience-photo-library.jpg">
+</p>
