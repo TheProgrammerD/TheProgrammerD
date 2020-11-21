@@ -7,8 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=TheProgrammerD.TheProgrammerD)
 
 <br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/249e55cc187fbe3dfb3f8a2d2dc1adde/tumblr_mtntw2ko2d1rz62vio1_500.gif" />
 <br />
 
 ### Hi in this very fabolous world of programming I'm the master of the 'D' letter on Cydonia's rangers of Mars. That's why my name is TheProgrammerD,
