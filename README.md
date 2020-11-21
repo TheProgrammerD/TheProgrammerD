@@ -38,5 +38,5 @@
 ## Remember at the universe like a beautiful code made in Matter language programming
 
 <p align="center">
-  <img height="150" width="400" src="https://images.fineartamerica.com/images-medium-large-5/boy-looking-through-telescope-mark-garlickscience-photo-library.jpg">
+  <img height="200" width="600" src="https://images.fineartamerica.com/images-medium-large-5/boy-looking-through-telescope-mark-garlickscience-photo-library.jpg">
 </p>
