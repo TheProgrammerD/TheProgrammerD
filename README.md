@@ -10,13 +10,13 @@
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/249e55cc187fbe3dfb3f8a2d2dc1adde/tumblr_mtntw2ko2d1rz62vio1_500.gif" />
 <br />
 
-### Hi in this very fabolous world of programming I'm the master of the 'D' letter on Cydonia's rangers of Mars. That's why my name is TheProgrammerD,
-### I'm a Sofware Engineer from ICESI university.
+**Current Status Quo**
 
-
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-
-
+- 🌱 I’m currently learning C# and Java.
+- 🤔 I like the robotic, machine learning and videogames physics.
+- 💼 I’m in way to finish my university.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via josepthcamilo@gmail.com to reach me.
 
 
 #### - 🔭 SpaceX FanBoi, 
