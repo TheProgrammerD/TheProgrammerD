@@ -1,7 +1,10 @@
 ### Hi there, I'm Cristian 👋.
 
-<img src="https://pngwebicons.com/uploads/anime/ico/anime_icon6038.ico" class="center" >
-  
+<a href="link" style="text-align: center">
+
+<img src="https://pngwebicons.com/uploads/anime/ico/anime_icon6038.ico" align="center"></a>
+
+
 
 
 <br/>
