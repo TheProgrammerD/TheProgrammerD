@@ -1,4 +1,4 @@
-### Hi there, I'm Cristian 👋.  <img style="width: 50%; src="https://pngwebicons.com/uploads/anime/ico/anime_icon6038.ico "  >
+### Hi there, I'm Cristian 👋.  <img src="https://pngwebicons.com/uploads/anime/ico/anime_icon6038.ico "  />
 
 
 <br/>
