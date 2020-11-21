@@ -19,23 +19,12 @@
 - 📫 Please email via josepthcamilo@gmail.com to reach me.
 
 
-#### - 🔭 SpaceX FanBoi, 
+#### - 🔭 Muse FanBoi.
 
-#### - 🛸 Into Hight Energy Physics and Astrophysics
-
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+#### - 🛸 Into Highg in Astrophysics and Science Fiction.
 
 
-<br />
-
-
-**I am Into , 🙏**
-
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
-
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=TheProgrammerD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
