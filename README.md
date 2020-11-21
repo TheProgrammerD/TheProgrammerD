@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/TheProgrammerD/TheProgrammerD/blob/main/TheProgrammerD.jpg">
-  ![](https://visitor-badge.glitch.me/badge?page_id=TheProgrammerD.TheProgrammerD)
+  
 </p>
 
 
@@ -13,7 +13,7 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 <br />
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/TotalThornyAfricanhornbill-size_restricted.gif" />
+<img align="right" height="100" width="100" alt="GIF" src="https://thumbs.gfycat.com/TotalThornyAfricanhornbill-size_restricted.gif" />
 <br />
 
 **Current Status Quo**
@@ -29,6 +29,8 @@
 
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=TheProgrammerD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![](https://visitor-badge.glitch.me/badge?page_id=TheProgrammerD.TheProgrammerD)
 
 <br />
 
