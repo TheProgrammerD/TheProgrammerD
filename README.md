@@ -1,4 +1,4 @@
-### Hi there, I'm Cristian 👋.
+### Hi there, I'm Cristian, in this very fabolous world of programming I'm the master of the 'D' letter on Cydonia's rangers of Mars. That's why my name is TheProgrammerD 👋.
 
 <p align="center">
   <img src="https://github.com/TheProgrammerD/TheProgrammerD/blob/main/TheProgrammerD.jpg">
